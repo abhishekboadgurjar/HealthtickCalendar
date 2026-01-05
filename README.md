@@ -234,4 +234,6 @@ This project is proprietary to HealthTick.
 
 ---
 
+## Github - https://github.com/abhishekgurjarin
+
 **Built with ❤️ for HealthTick coaches**
